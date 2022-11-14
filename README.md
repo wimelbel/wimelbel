@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm working at WIMINNO<br>💬 I'm since september a trainee<br>🌱 I'm currently learning PHP, HTML, CSS and TypoScript.
+⚡ I'm working at WIMINNO<br>💬 I'm a trainee since september<br>🌱 I'm currently learning PHP, HTML, CSS and TypoScript.
 
 
 # 💻 Tech Stack:
